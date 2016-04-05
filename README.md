@@ -6,6 +6,7 @@
 
 - [Languages](#languages)
 - [Frameworks](#frameworks)
+- [Tools](#tools)
 - [Glossary](#glossary)
 
 ---
@@ -37,7 +38,21 @@
 
 **Videos**
 
-- [AngularFire 2 Intro](https://www.youtube.com/watch?v=ngnSOTSS8Q8) (Angular 2.0.0-beta.11 | Typescript | 4/03/16) 
+- [AngularFire 2 Intro](https://www.youtube.com/watch?v=ngnSOTSS8Q8) (Angular 2.0.0-beta.11 | Typescript | 4/03/16)
+
+**Blogs**
+
+- [Vitor Savkin](http://victorsavkin.com) (Angular Core Team Engineer)
+
+
+--- 
+
+### Tools
+
+- [Git](#git)
+
+#### Git
+
 
 ---
 
