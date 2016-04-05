@@ -25,6 +25,9 @@
 
 - Rails
 - [Angular 2](#angular-2)
+- RxJS
+- Polymer [link](https://www.polymer-project.org/1.0/)
+- Ionic [link]
 
 #### Angular 2
 
@@ -34,11 +37,11 @@
 
 **Videos**
 
-- [Angularfire 2 Intro]
+- [AngularFire 2 Intro](https://www.youtube.com/watch?v=ngnSOTSS8Q8) (Angular 2.0.0-beta.11 | Typescript | 4/03/16) 
 
 ---
 
-#### Glossary
+### Glossary
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ##### A
@@ -58,6 +61,13 @@
 ##### H
 
 ##### I
+idempotent:
+
+- tbc
+
+immutable:
+
+- tbc
 
 ##### J
 
@@ -70,18 +80,26 @@
 ##### N
 
 ##### O
+observable:
+
+- tbc
 
 ##### P
+polyfill
+
+- tbc
 
 ##### Q
 
 ##### R
-- routes:
-  - a set of links
+routes:
+
+- a set of links
 
 ##### S
-- service workers:
-  - tbc
+service worker:
+
+- tbc
 
 ##### T
 
@@ -90,8 +108,9 @@
 ##### V
 
 ##### W
-- web workers:
-  - tbc 
+web worker:
+
+- tbc 
 
 ##### X
 
