@@ -1,4 +1,4 @@
-## Learnings
+# Learnings
 
 *Things I have learned, resources I have found; the never ending journey of software engineering*
 
@@ -10,7 +10,7 @@
 
 ---
 
-#### Languages
+### Languages
 
 - Javascript
 - Typescript
@@ -21,12 +21,12 @@
 
 ---
 
-#### Frameworks
+### Frameworks
 
 - Rails
 - [Angular 2](#angular-2)
 
-##### Angular 2
+#### Angular 2
 
 **Core Team**
 
