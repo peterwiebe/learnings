@@ -44,75 +44,80 @@
 ### Glossary
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
-##### A
+#### A
 
-##### B
+#### B
 
-##### C
+#### C
 
-##### D
+#### D
 
-##### E
+#### E
 
-##### F
+#### F
 
-##### G
+#### G
 
-##### H
+#### H
 
-##### I
-idempotent:
-
-- tbc
-
-immutable:
+#### I
+**idempotent**:
 
 - tbc
 
-##### J
-
-##### K
-
-##### L
-
-##### M
-
-##### N
-
-##### O
-observable:
+**immutable**:
 
 - tbc
 
-##### P
-polyfill
+#### J
+
+#### K
+
+#### L
+
+#### M
+
+#### N
+
+#### O
+**observable**:
 
 - tbc
 
-##### Q
+#### P
+**polyfill**:
 
-##### R
-routes:
+- tbc
+
+#### Q
+
+#### R
+**routes**:
 
 - a set of links
 
-##### S
-service worker:
+#### S
+**service worker**:  
 
 - tbc
 
-##### T
+#### T
 
-##### U
+#### U
 
-##### V
+#### V
 
-##### W
-web worker:
--- tbc 
+#### W
+**web component**:  
 
-##### X
+- tbc
 
-##### Y
+**web worker**:  
 
-##### Z
+- tbc 
+
+#### X
+
+#### Y
+
+#### Z
