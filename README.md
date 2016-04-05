@@ -29,8 +29,18 @@
 - RxJS ([ReactiveX](http://reactivex.io)) [github](https://github.com/Reactive-Extensions/RxJS)
 - Polymer [website](https://www.polymer-project.org/1.0/)
 - Ionic [website](http://ionicframework.com)
+- React
+- Ember
+- Firebase
+- MongoDB
+- CycleJS
 
 #### Angular 2
+
+**Aggregator**
+
+- [angular2-education](https://github.com/timjacobi/angular2-education)
+- [angular2.com](http://www.angular2.com)
 
 **Core Team**
 
@@ -44,12 +54,24 @@
 
 - [Vitor Savkin](http://victorsavkin.com) (Angular Core Team Engineer)
 
+**Demos**
+
+- [multiple](http://www.syntaxsuccess.com/angular-2-samples/#/demo/spreadsheet) (Angular 2.0.0-beta.13 | 4/03/16) [github](https://github.com/thelgevold/angular-2-samples)
+
+**Codesplaining**
+
+- [Template-driven Forms](http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html) (3/21/16)
+
+**Plnkrs**
+
+- [radio buttons](http://plnkr.co/edit/aggee6An1iHfwsqGoE3q?p=preview) (beta.0)
 
 --- 
 
 ### Tools
 
 - [Git](#git)
+- NodeJS
 
 #### Git
 
@@ -89,6 +111,9 @@
 #### K
 
 #### L
+**lazy loading**:
+
+- tbc
 
 #### M
 
