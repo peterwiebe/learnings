@@ -109,7 +109,7 @@ service worker:
 
 ##### W
 web worker:
-- tbc 
+-- tbc 
 
 ##### X
 
