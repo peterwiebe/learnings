@@ -25,10 +25,10 @@
 ### Frameworks
 
 - Rails
-- [Angular 2](#angular-2)
-- RxJS
-- Polymer [link](https://www.polymer-project.org/1.0/)
-- Ionic [link]
+- [Angular 2](#angular-2) [website](angular.io)
+- RxJS ([ReactiveX](http://reactivex.io)) [github](https://github.com/Reactive-Extensions/RxJS)
+- Polymer [website](https://www.polymer-project.org/1.0/)
+- Ionic [website](http://ionicframework.com)
 
 #### Angular 2
 
